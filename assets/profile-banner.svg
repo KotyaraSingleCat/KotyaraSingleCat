@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Kate — Java Backend Engineer</title>
+  <desc id="desc">Distributed systems. Reliable messaging. Production engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#102542"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#79e2df"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#58a6ff" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="56" y="57" width="48" height="4" rx="2" fill="url(#accent)"/>
+  <text x="56" y="130" fill="#f0f6fc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700">Hi, I'm Kate.</text>
+  <text x="58" y="182" fill="#79c0ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="500">Java Backend Engineer</text>
+  <text x="58" y="238" fill="#a5b4c8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19">Distributed systems · Reliable messaging · Production engineering</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
+    <path d="M975 130 L975 84 L1014 108 Q1048 96 1082 108 L1121 84 L1121 158 Q1121 211 1048 211 Q975 211 975 158 Z"/>
+    <path d="M1005 153 L1017 153 M1078 153 L1090 153 M1041 173 L1048 179 L1055 173 M1048 179 L1048 186"/>
+    <path d="M996 177 L957 169 M996 188 L957 192 M1100 177 L1139 169 M1100 188 L1139 192"/>
+  </g>
+  <text x="982" y="253" fill="#7d9bbb" font-family="Consolas, monospace" font-size="16">KotyaraSingleCat</text>
+  <rect x="56" y="287" width="1168" height="1" fill="#58a6ff" opacity=".2"/>
+</svg>
