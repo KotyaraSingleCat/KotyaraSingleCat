@@ -31,7 +31,9 @@ At ITSmartFlex (Vodafone UA), I work on a messaging platform with 100+ microserv
 - Redesigned a Kafka Streams topology, improving processing performance by approximately 10–15% while reducing state-replication overhead.
 - Implemented message-status functionality across 10–12 microservices to keep status propagation consistent throughout the messaging flow.
 - Modernized healthcare systems used by 400+ laboratories across the USA, Canada, Europe, and Asia.
+
 💼 Experience
+
 <details>
 <summary><strong>📡 ITSmartFlex · Vodafone UA — Telecom messaging</strong></summary>
 - Consolidated two legacy Kafka Streams services and added metrics to detect message loss across the processing flow.
